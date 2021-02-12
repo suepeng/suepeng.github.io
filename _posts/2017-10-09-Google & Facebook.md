@@ -3,6 +3,7 @@ layout: post
 title: Google & Facebook
 date:  2017-10-09
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1506637021-1687628799_n.jpg"
 published: true 
 ---
 <p>首先要感謝Ｍ先生的同學和學長，</p>

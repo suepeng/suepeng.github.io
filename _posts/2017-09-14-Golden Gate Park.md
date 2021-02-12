@@ -3,6 +3,7 @@ layout: post
 title: Golden Gate Park
 date:  2017-09-14
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1505340428-3333745187_n.jpg"
 published: true 
 ---
 <p>金門公園真的非常大，</p>

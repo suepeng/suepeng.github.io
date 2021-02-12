@@ -3,6 +3,7 @@ layout: post
 title: Golden Gate Bridge
 date:  2017-11-17
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1507654235-3411998514_n.jpg"
 published: true 
 ---
 <p>Ｓ小姐曾經帶學生到美國遊學，</p>

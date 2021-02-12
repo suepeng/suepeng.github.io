@@ -3,6 +3,7 @@ layout: post
 title: Sutro Baths ＆ Cliff House
 date:  2017-11-13
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1507653531-3144331408_n.jpg"
 published: true 
 ---
 <p>ＳＭ夫妻這一天要到Sutro Baths ＆ Cliff House看看，</p>

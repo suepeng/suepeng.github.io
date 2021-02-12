@@ -3,6 +3,7 @@ layout: post
 title: Yerba Buena Garden
 date:  2017-08-23
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1503460199-2725565100_n.jpg?v=1503460202"
 published: true 
 ---
 <p>舊金山靠海所以風比較大，</p>

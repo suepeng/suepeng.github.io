@@ -3,6 +3,7 @@ layout: post
 title: Palace of Fine Arts ＆Lombard Street
 date:  2017-09-01
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1504207223-762886722_n.jpg"
 published: true 
 ---
 <p>雖然傍晚四點才出發前往藝術宮（Palace of Fine Arts），</p>

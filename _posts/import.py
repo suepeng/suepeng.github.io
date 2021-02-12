@@ -11,6 +11,7 @@ for idx, line in enumerate(raw):
             'title' : ext(doc[0], "TITLE:"),
             'date'  : parser.parse(ext(doc[2], "DATE:")).strftime("%Y-%m-%d"),
             'tag'   : ext(doc[3], "PRIMARY CATEGORY:"),
+            'status': ext(doc[4], "STATUS:"),
         }
         fname = f"{meta['date']}-{meta['title'].replace('/', ' ')}.md"
         with open(fname, "wt") as f:
@@ -20,7 +21,7 @@ for idx, line in enumerate(raw):
             f.write(f"title: {meta['title']}\n")
             f.write(f"date:  {meta['date']}\n")
             f.write(f"tag:   {meta['tag']}\n")
-            f.write("published: true \n")
+            f.write(f"published: {'true' if meta['status'] == 'publish' else 'false'} \n")
             f.write("---\n")
                     
             # write boddy

@@ -3,6 +3,7 @@ layout: post
 title: Family Day
 date:  2017-08-29
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1503984894-2901582246_n.jpg"
 published: true 
 ---
 <p>Ｍ先生上班第一週的星期五就遇到家庭日，</p>

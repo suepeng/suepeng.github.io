@@ -3,6 +3,7 @@ layout: post
 title: Ferry Building
 date:  2017-08-30
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1504026754-3694422252_n.jpg"
 published: true 
 ---
 <p>ＳＭ夫妻住所就在海邊，</p>

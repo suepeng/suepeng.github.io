@@ -3,6 +3,7 @@ layout: post
 title: Cable Car & Ghirardelli Square & Boudin Bakery
 date:  2017-09-26
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1505932053-1570872926_n.jpg"
 published: true 
 ---
 <p>剛來舊金山的頭幾週，</p>

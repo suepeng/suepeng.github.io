@@ -3,6 +3,7 @@ layout: post
 title: Pebble Beach & Carmel-By-The Sea
 date:  2017-09-12
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1505114311-2632344816_n.jpg?v=1505166737"
 published: true 
 ---
 <p>幾週前某週六小Ｉn的姨丈開車帶ＳＭ夫妻一家三口到舊金山西岸去玩，</p>

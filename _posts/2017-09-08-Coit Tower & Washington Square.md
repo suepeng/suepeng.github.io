@@ -3,6 +3,7 @@ layout: post
 title: Coit Tower & Washington Square
 date:  2017-09-08
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1504680410-2777088667_n.jpg"
 published: true 
 ---
 <p>Ｓ小姐原本計劃原本計劃要搭ＭＵＮＩ去Coit Tower，</p>

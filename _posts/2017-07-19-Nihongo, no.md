@@ -3,6 +3,7 @@ layout: post
 title: Nihongo, no
 date:  2017-07-19
 tag:   【SM生活543之日本生活】
+feature: "https://pic.pimg.tw/smlife543/1500480159-3317088505_n.jpg?v=1500480177"
 published: true 
 ---
 <p>ＳＭ夫妻來日本一個禮拜了，</p>

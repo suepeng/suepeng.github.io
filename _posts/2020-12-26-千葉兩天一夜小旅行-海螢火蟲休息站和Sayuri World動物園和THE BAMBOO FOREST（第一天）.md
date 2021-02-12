@@ -3,6 +3,7 @@ layout: post
 title: 千葉兩天一夜小旅行-海螢火蟲休息站和Sayuri World動物園和THE BAMBOO FOREST（第一天）
 date:  2020-12-26
 tag:   【SM生活543之日本生活】
+feature: "https://pic.pimg.tw/smlife543/1608965721-435268444-g_n.jpg"
 published: true 
 ---
 <p><img alt="87F374B9-162B-49BC-B2BB-B1410A0F1AD2.jpeg" src="https://pic.pimg.tw/smlife543/1608965721-435268444-g_n.jpg" title="87F374B9-162B-49BC-B2BB-B1410A0F1AD2.jpeg"></p>

@@ -3,6 +3,7 @@ layout: post
 title: Stanford university
 date:  2017-08-30
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1504030746-3914592489_n.jpg"
 published: true 
 ---
 <p>ＳＭ夫妻到了美國，</p>

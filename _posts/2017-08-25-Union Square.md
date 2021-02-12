@@ -3,6 +3,7 @@ layout: post
 title: Union Square
 date:  2017-08-25
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1503557584-3647728305_n.jpg"
 published: true 
 ---
 <p>來到舊金山好像就一定要去一下Union Square，</p>

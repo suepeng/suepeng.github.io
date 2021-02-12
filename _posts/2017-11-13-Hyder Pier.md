@@ -3,6 +3,7 @@ layout: post
 title: Hyder Pier
 date:  2017-11-13
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1507642141-2726935458_n.jpg"
 published: true 
 ---
 <p>Ｓ小姐實在太愛Cable Car，</p>

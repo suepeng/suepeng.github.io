@@ -3,6 +3,7 @@ layout: post
 title: SF MOMA & YBCA
 date:  2017-09-29
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1506635922-718339059_n.jpg"
 published: true 
 ---
 <p>Ｓ小姐是不同時間去SF MOMA和YBCA的，</p>

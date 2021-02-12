@@ -3,6 +3,7 @@ layout: post
 title: Muir Woods
 date:  2017-09-29
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1506634316-878203207_n.jpg"
 published: true 
 ---
 <p>某個週六，</p>

@@ -3,6 +3,7 @@ layout: post
 title: The Walt Disney Family Museum
 date:  2017-10-21
 tag:   【SM生活543之美國生活】
+feature: "https://pic.pimg.tw/smlife543/1507596209-1869848602_n.jpg"
 published: true 
 ---
 <p>舊金山的天氣真的幾乎是好天，</p>
