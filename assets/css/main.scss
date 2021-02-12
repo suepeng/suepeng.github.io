@@ -1,8 +1,32 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 sitemap: false
 ---
 
-@charset "utf-8";
+/*
+ *
+ *  Moon
+ *
+ *  Designer: Taylan Tatlı
+ *  WEB: http://taylantatli.me
+ *
+*/
 
-@import "so-simple";
+// Partials
+@import "variables";
+@import "mixins";
+@import "normalize";
+@import "site";
+@import "typography";
+@import "elements";
+@import "syntax";
+@import "nav";
+@import "vendor/fonts";
+@import "vendor/font-awesome";
+@import "vendor/animate";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
+@import "overwrite";
+
+.bold {
+	font-weight: bold !important;
+}
