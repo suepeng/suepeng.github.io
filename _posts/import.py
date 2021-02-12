@@ -1,7 +1,8 @@
 import os, glob
 from dateutil import parser
+from bs4 import BeautifulSoup
 
-raw = open("raw.txt").readlines()
+raw = open("_posts/raw.txt").readlines()
 posts = 0
 doc = []
 for idx, line in enumerate(raw):
@@ -12,8 +13,11 @@ for idx, line in enumerate(raw):
             'date'  : parser.parse(ext(doc[2], "DATE:")).strftime("%Y-%m-%d"),
             'tag'   : ext(doc[3], "PRIMARY CATEGORY:"),
             'status': ext(doc[4], "STATUS:"),
+            'imgs'  : BeautifulSoup("".join(doc)).find_all('img'),
         }
-        fname = f"{meta['date']}-{meta['title'].replace('/', ' ')}.md"
+        fname = f"_posts/{meta['date']}-{meta['title'].replace('/', ' ')}.md"
+        publish = 'true' if meta['status'] == 'publish' else 'false'
+        feature = meta['imgs'][0].attrs['src'] if len(meta['imgs']) > 0 else None
         with open(fname, "wt") as f:
             # write meta
             f.write("---\n")
@@ -21,7 +25,9 @@ for idx, line in enumerate(raw):
             f.write(f"title: {meta['title']}\n")
             f.write(f"date:  {meta['date']}\n")
             f.write(f"tag:   {meta['tag']}\n")
-            f.write(f"published: {'true' if meta['status'] == 'publish' else 'false'} \n")
+            if feature:
+                f.write(f"feature: \"{feature}\"\n")
+            f.write(f"published: {publish} \n")
             f.write("---\n")
                     
             # write boddy
@@ -39,4 +45,3 @@ for idx, line in enumerate(raw):
         doc, meta = [], {}
     doc.append(line)
 print(f"converted {posts} posts with {idx} lines")
-
