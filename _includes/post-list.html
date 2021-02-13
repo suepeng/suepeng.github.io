@@ -1,0 +1,15 @@
+<div class="post-list">
+    {% for post in site.posts %} 
+    <ul>
+        <li class="wow fadeInLeft" data-wow-duration="1.5s">
+            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
+                <h4 class="post_title">
+                    <b>{{ post.title }}</b>
+                    <small class="grey"><br>{{ post.date | date_to_string }}</small>
+                </h4>
+                <p class="post_excerpt">{{ post.content | strip_html | truncatewords:7 }} <span class='grey'>(read more)</span></p>
+            </a>
+        </li>
+    </ul>
+    {% endfor %}
+</div>

@@ -104,6 +104,9 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
+	@media #{$small} {
+		margin: auto;
+	}
 	background: $white;
 	color: $color_tuatara;
 	padding: 2em;
@@ -135,6 +138,9 @@ body {
 // entry meta
 .entry-meta {
 	@include font-rem(12);
+	@media #{$small} {
+		@include font-rem(15);
+	}
 	text-transform: uppercase;
 	color: lighten($color_tuatara,60);
 	padding-left: 0;
@@ -170,7 +176,7 @@ body {
 	}
 }
 header .entry-meta {
-	display: none; // hide header meta on small screens
+	// display: none; // hide header meta on small screens
 	@media #{$notsmall} {
 		display: block;
 	}
@@ -196,7 +202,16 @@ header .entry-meta {
   	background-size: cover;
     @include transition(.5s);
     @media #{$small} {
-        background-image: none !important;
+    //    background-image: none !important;
+    	color: white;
+    	padding: 4em;
+    	margin-left: -4rem;
+    	margin-right: -4rem;
+    	margin-top: -2rem;
+    	border-radius: 3px 3px 0 0;
+    	background-color: rgba($black, 0.6);
+    	background-blend-mode: multiply;
+    	background-position: center center;
     }
     @media #{$medium} {
         color: white;

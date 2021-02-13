@@ -21,18 +21,7 @@ layout: compress
                         <i class="fa fa-home"></i> 回首頁
                     </a>
                 </div>
-                <div class="post-list">
-                    {% for post in site.posts %} 
-                    <ul>
-                        <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">[{{ post.date | date_to_string }}] 
-                                {{ post.title }}
-                                <p>{{ post.content | strip_html | truncatewords:15 }} (read more)</p>
-                            </a>
-                        </li>
-                    </ul>
-                    {% endfor %}
-                </div>
+                {% include post-list.html %}
             </div>
         </div>
     </header>

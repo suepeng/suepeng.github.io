@@ -13,8 +13,8 @@ layout: compress
     {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
-            <div class="row" style="padding: 20px;">
+        <div class="container wrapper animated fadeIn">
+            <div style="padding: 20px;">
                 <a href="{{ site.url }}">
                     <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
                 </a>
@@ -24,7 +24,7 @@ layout: compress
 		            </a>
                 </h3>
                 <p>{{ site.bio }}</p>
-                <p>
+                <p style="text-align: center;">
                     <a class="social-btn" href="{{ site.url }}/posts">
                     <i class="fa fa-fw fa-list"></i>最新文章
                     </a>
@@ -34,7 +34,10 @@ layout: compress
                     <a class="social-btn" href="http://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-facebook-square"></i>臉書</a>
                     <a class="social-btn" href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i>信箱</a>
                 </p>
-
+            </div>
+            <hr>
+            <div class="content">
+                {% include post-list.html %}
             </div>
         </div>
     </header>

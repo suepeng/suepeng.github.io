@@ -1,6 +1,6 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
-		<button class="dl-trigger">Open Menu</button>
-		<ul class="dl-menu">
+		<button class="dl-trigger" id="dl-menu-btn">Open Menu</button>
+		<ul class="dl-menu" id="dl-menu-list">
             {% for link in site.data.navigation %}
                 {% if link.url contains 'http' %}
                     {% assign domain = '' %}
@@ -9,6 +9,22 @@
                 {% endif %}
                 <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
+            <li>
+                <a href="#">文章分類</a>
+                {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+                {% assign tags_list = site_tags | split:',' | sort %}
+                <ul class="dl-submenu">
+                    {% for item in (0..site.tags.size) %}
+                        {% unless forloop.last %}
+                            {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+                            <li><a href="{{ domain }}/tags/#{{ this_word }}" onclick="closeDlMenu()" class="tag">
+                                {{ this_word }} 
+                                <span class="count">{{ site.tags[this_word].size }}</span>
+                            </a></li>
+                        {% endunless %}
+                    {% endfor %}
+                </ul><!-- /.dl-submenu -->
+            </li> 
 			<li>
 				<a href="#">About</a>
 				<ul class="dl-submenu">

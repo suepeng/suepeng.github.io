@@ -22,6 +22,14 @@ function forEach (array, callback, scope) {
   }
 }
 
+function closeDlMenu () {
+  document.getElementById("dl-menu-btn").click();
+}
+
 (function () {
   handleExternalLinks()
+
+  close-dl-menu
 })()
+
+
