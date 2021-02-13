@@ -12,7 +12,9 @@ def write_post(doc):
         'status': ext(doc[4], "STATUS:"),
         'imgs'  : BeautifulSoup("".join(doc), features="html.parser").find_all('img'),
     }
-    fname = f"{meta['date']}-{meta['title'].replace('/', ' ')}.md"
+    if not os.path.exists(meta['tag']):
+        os.makedirs(meta['tag'])
+    fname = f"{meta['tag']}/{meta['date']}-{meta['title'].replace('/', ' ')}.md"
     publish = 'true' if meta['status'] == 'publish' else 'false'
     feature = meta['imgs'][0].attrs['src'] if len(meta['imgs']) > 0 else None
     with open(fname, "wt") as f:

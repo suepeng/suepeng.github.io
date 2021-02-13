@@ -15591,18 +15591,6 @@ BODY:
 
 -----
 --------
-TITLE: 面紙盒變身
-AUTHOR: smlife543
-DATE: 04/16/2020 09:35:25 AM
-PRIMARY CATEGORY: Uncategoried
-STATUS: draft
-ALLOW COMMENTS: 0
-ALLOW PINGS: 0
-CONVERT BREAKS: 0
------
-BODY:
-(未設定內容)
------
 --------
 TITLE: 粗吸管串串樂
 AUTHOR: smlife543
@@ -29963,7 +29951,7 @@ BODY:
 TITLE: 到府洗冷氣服務
 AUTHOR: smlife543
 DATE: 01/29/2021 12:24:37 AM
-PRIMARY CATEGORY: Uncategoried
+PRIMARY CATEGORY: 【SM生活543之日本生活】
 STATUS: draft
 ALLOW COMMENTS: 0
 ALLOW PINGS: 0
