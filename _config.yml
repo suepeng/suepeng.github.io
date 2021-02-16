@@ -5,7 +5,7 @@ description:        "SM生活543"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/32153735_1506367489473370_2393959498856267776_o.jpg?_nc_cat=102&ccb=3&_nc_sid=e3f864&_nc_ohc=Q2KtAp4NCTcAX-zYSgT&_nc_ht=scontent-nrt1-1.xx&oh=0a04b669291bc2f966b2c223c0807819&oe=6050899E'
 bg_paper:           'assets/img/bg-paper.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
