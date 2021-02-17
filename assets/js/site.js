@@ -27,7 +27,7 @@ function closeDlMenu () {
 }
 
 (function () {
-  handleExternalLinks();
+  handleExternalLinks()
 })()
 
 

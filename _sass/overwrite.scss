@@ -55,11 +55,11 @@ th, td {
 	}
 }
 
-#post_content {
-	margin: 0 15px;
+.post_excerpt {
+	overflow-x: hidden;
 }
 
-html, body, header, .content {
-	overflow-x: hidden;
+#post_content {
+	margin: 0 15px;
 }
 
