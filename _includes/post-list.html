@@ -3,13 +3,13 @@
     <ul>
         <li class="wow fadeInLeft" data-wow-duration="1.5s">
             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">
-                <b>{{ post.title }}</b>
+                {{ post.title }}
                 <small class="grey"><br>{{ post.date | date_to_string }}</small>
-                <p class="post_excerpt">
-                    {{ post.content | strip_html | truncatewords:7 }} 
-                    <span class='grey'>(read more)</span>
-                </p>
             </a>
+            <p class="post_excerpt">
+                {{ post.content | strip_html | truncatewords:7 }} 
+                <span class='grey'>(read more)</span>
+            </p>            
         </li>
     </ul>
     {% endfor %}

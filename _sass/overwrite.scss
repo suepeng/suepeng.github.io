@@ -56,7 +56,5 @@ th, td {
 }
 
 #post_content {
-	@media #{$small} {
-		margin: 0 15px;
-	}
+	margin: 0 15px;
 }
