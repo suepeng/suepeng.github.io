@@ -54,3 +54,9 @@ th, td {
 		margin-left: -20px;		
 	}
 }
+
+#post_content {
+	@media #{$small} {
+		margin: 0 15px;
+	}
+}
