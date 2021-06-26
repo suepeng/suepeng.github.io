@@ -6,8 +6,6 @@ tag:  【SM生活543之日本生活】
 feature: "https://lh3.googleusercontent.com/Z8GqyVb6PNWiSiMlOSLg02ngv-lxqWMeTWEk-47EYjGEvlkvUha26gyOwWXukH08nS5W-KW0ZvAeuqw1akGfF3jrcYlDWjpoi9yZGAJo1QUPUpcY9foIqtmdT4UwnCTxVqMZrcAD9-4=w2400"
 published: ture
 ---
-
-<br><br>
 因為Ｍ先生有平日休假，
 ＳＭ一家人搬家前就安排了這趟旅行。
 
