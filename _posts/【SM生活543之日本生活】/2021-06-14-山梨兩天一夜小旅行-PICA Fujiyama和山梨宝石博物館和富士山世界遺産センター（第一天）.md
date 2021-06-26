@@ -9,13 +9,13 @@ published: ture
 
 <br><br>
 因為Ｍ先生有平日休假，
-ＳＭ一家人安排了到富士山附近小旅行，
-六月是日本梅雨季，
-很不巧的他們兩天一夜小旅行只有第二天中午前後是晴天而已。
+ＳＭ一家人搬家前就安排了這趟旅行。
 
-第一天因為雨天，
-他們只到了室內景點，
-第一個是寶石博物館，
+六月是日本梅雨季，
+很不巧的他們第一天遇到雨天，
+所以第一天只到了室內景點。
+
+首先是山梨寶石博物館，
 外觀看起來像歐式別墅。
 ![text](https://lh3.googleusercontent.com/36SNZSnRXk5vlxeCAQNJLDTx8hdCVN4IztnUA2thIwpzkWFDuQ1v9wsuHTXikBN0Iyq-PWSZovPbLEStUciu01MceM6g89yiGhNBolyqYjgReYRxGHaY9Qh9jNEfaP9bXZfrHouSSBE=w2400)
 
