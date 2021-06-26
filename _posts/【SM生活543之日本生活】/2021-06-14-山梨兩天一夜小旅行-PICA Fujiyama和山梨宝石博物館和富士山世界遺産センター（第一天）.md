@@ -3,8 +3,8 @@ layout: post
 title: 山梨兩天一夜小旅行-山梨宝石博物館和富士山世界遺産センター和住PICA Fujiyama小木屋（第一天）
 date: 2021-06-14
 tag:  【SM生活543之日本生活】
-feature: "標題背景圖片連結"
-published: false
+feature: "https://lh3.googleusercontent.com/Z8GqyVb6PNWiSiMlOSLg02ngv-lxqWMeTWEk-47EYjGEvlkvUha26gyOwWXukH08nS5W-KW0ZvAeuqw1akGfF3jrcYlDWjpoi9yZGAJo1QUPUpcY9foIqtmdT4UwnCTxVqMZrcAD9-4=w2400"
+published: ture
 ---
 
 <br><br>
@@ -140,48 +140,77 @@ published: false
 
 
 <br><br>
-
-![text]()
-
-
-<br><br>
-
-![text]()
-<br><br>
-
-![text]()
+參觀完富士山世界遺産中心，ＳＭ一家人就準備開往當天要住的目的地PICA Fujiyama，先到櫃台check in後，再開車到他們當天著的小木屋。
+![text](https://lh3.googleusercontent.com/MzQLzvT-0tb5j_PYqmDpc1dKOtTluBwSiuwml6twCOPNt1FVWsweUZsNXJrhvbxZp9z9U9JdViOLaoScW2AMXfajLRKTDfD4fHkztUtxHhNYq6-UxePxjZz42d_kIP2gRyp2fkYGcEs=w2400)
 
 
 <br><br>
-
-![text]()
-
-
-<br><br>
-
-![text]()
+櫃台後面有賣一些自由選購的商品，因為住宿沒有附贈水，Ｓ小姐覺得必買以外，他們也買了想要玩看看生火用的木柴跟火種。
+![text](https://lh3.googleusercontent.com/FmZxTzGz8aQtrZhz_o-XblT7Uj_FnlMwlYwdfnd8ZF6Vv_Ud-9t-w8uxA4MoPo62-VmZIQVU0hc-BS8IbFJpRUPefO32TDe4M4OBy3crMwITmzazy3FcHDUVnymJ65bZb4U1WSSqrc4=w2400)
 
 
 <br><br>
-
-![text]()
-
-
-<br><br>
-
-![text]()
+他們今晚要住的小木屋長這樣，官網上外觀是紅色的，他們旁邊那棟是紅色的，但內裝都一樣。
+![text](https://lh3.googleusercontent.com/2G3YXmsM-nZphjCTPYRk0Mtp7EVQFAtjjkmq9wR9L-oTufslb3r7JoxyV2yzOAKm6kqYg0-VhKsnsjQGsDaEK3hbjUF7uRZORXVlJ0tuVVEG_jLdhBvFAj3tNKOW2rRS8KnrocB7UWw=w2400)
 
 
 <br><br>
-
-![text]()
-
-
-<br><br>
-
-![text]()
+小木屋室內樣子。
+![text](https://lh3.googleusercontent.com/csGH1kYFqOboZpfxOVtUzPU6NrH4yAyldFIUckFH648xkDKAKzxlpuIYODrjcjPUBsW8VJzHBF0Ix2Ipn-1W6PKfS1LZuRrUOdiphe_7sOasPWoRjn7iP-yUG61RZpgifrli592sjAQ=w2400)
 
 
 <br><br>
+記得去年底ＳＭ一家人豪華露營初體驗有提到Ｓ小姐對半夜上廁所感到困擾嗎？這一次她不選帳篷了，選了小木屋來體驗，如Ｓ小姐預期，她看到廁所感覺安心許多。（笑）（照片裡沒拍出來，鏡子左側是廁所、右側是浴室）
+![text](https://lh3.googleusercontent.com/OsAYuo54eqe86PhFr33mFR2mqzqPt_wfRHDLG-RvWlPkm7lvTUAQXUymSN6L6mO1g-LB6-pxQ6lPhoKi1U49WShkvM4WFnaDtjzRrnF7x1SQdiV4p8Bi2_NJaTBgaiz2RjwfyZbcjOM=w2400)
 
-![text]()
+
+<br><br>
+時間不早了，Ｍ先生主動擔任今晚主廚。平常Ｍ先生在虛擬世界很擅長在原始世界搞吃的，今天讓他回到現實生活試看看。（笑）
+![text](https://lh3.googleusercontent.com/v-P-U8tRIz3_Aqk8TcIkYI6bo95-LgwSAJXOJjRrtVJXkb7LQcNrWDMcRkNupdWyUhK07snKtBHqVxJ7AW1F0U062Pfxzyon6_GIAwFIg4-KzeIYFKQxAFe9JIRmO3rtrNLRnHnBq-s=w2400)
+
+
+<br><br>
+很好，大家都有吃飽。
+![text](https://lh3.googleusercontent.com/As5FF2T_vlcP8OH8ybPK1m7ORDYQOt5BeXoZ1CTkprghVTEPEJFfdX1gfHTKzlU9BtWlyzLnGBUPq1XIJx8xli8rA-FKdU8iYcy0ll6YrPBNuqEr9slgflfmYZjl5oJiwy02inzsw1o=w2400)
+
+
+<br><br>
+在等Ｍ先生料理的此刻，
+外面正在下著傾盆大雨，
+可能是下雨的關係，
+天氣沒有前幾天炎熱，
+蚊子也少了一些。
+![text](https://lh3.googleusercontent.com/YnNnas8LoBdpcwuISZOG9va7iyQdxC6bdf2Fg9zCzuvNqg4wBI5yNgGfwgPhTT0HRhof0Rb0s9CKhanrNs-rFavZQYspDIMAPgbu-YjNiH0_nTBnEmcGo8T-JT7WwzlYUjICaOzDBCU=w2400)
+
+
+<br><br>
+晚餐期間Ｍ先生也帶小ＩＮ體驗生火，木柴燒出來的霹啪聲感覺很溫暖，讓Ｓ小姐回想起過去的營火晚會。
+![text](https://lh3.googleusercontent.com/P-tx7fnLGSYvqoPx1xJbkXQ9v-Haz-Cwv1OZHDb2ki3VQas6IjJX3U1s_gPu2dFS7cGLRn9VoKWwLQDZQvAo3WEWkWQjuhtl5G0vs9x8z3qk20-S0FETNjFWi9vA7ZjrON6nMaUcTZg=w2400)
+
+
+<br><br>
+以上就是ＳＭ一家人第一天的簡單室內行程，
+想了解更多的人可以參考下面官網：
+
+![山梨宝石博物館](https://www.gemmuseum.jp/)
+
+![富士山世界遺産センター](http://www.fujisan-whc.jp/index.html)
+
+![PICA Fujiyama](https://www.pica-resort.jp/fujiyama/)
+
+
+<br><br>
+後記：
+第一天下著雨的確是有點掃興，
+Ｓ小姐覺得是不一樣的旅行經驗，
+Ｍ先生喃喃地說「以後不要在六月梅雨季排旅行啦！」。
+
+當晚睡前雨停了，
+他們有看到美麗的滿天星斗，
+好希望隔天放晴可以看見富士山。
+
+
+豪華露營貴一點，但因為東西都是已經準備好、人到就好，
+對於沒有太多露營裝備的人來說，是可以滿足露營的樂趣。
+第二次的豪華露營地點是Ｓ小姐的好友也叫Ｓ小姐去過所以推薦的，
+Ｓ小姐也覺得很不錯，推薦給想體驗豪華露營的你。（如果已經有露營裝備，這裡也有單純租借營地的選擇喔！）
