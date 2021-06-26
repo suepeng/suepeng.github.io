@@ -190,15 +190,16 @@ published: ture
 以上就是ＳＭ一家人第一天的簡單室內行程，
 想了解更多的人可以參考下面官網：
 
-![山梨宝石博物館](https://www.gemmuseum.jp/)
+[山梨宝石博物館](https://www.gemmuseum.jp/)
 
-![富士山世界遺産センター](http://www.fujisan-whc.jp/index.html)
+[富士山世界遺産センター](http://www.fujisan-whc.jp/index.html)
 
-![PICA Fujiyama](https://www.pica-resort.jp/fujiyama/)
+[PICA Fujiyama](https://www.pica-resort.jp/fujiyama/)
 
 
 <br><br>
 後記：
+
 第一天下著雨的確是有點掃興，
 Ｓ小姐覺得是不一樣的旅行經驗，
 Ｍ先生喃喃地說「以後不要在六月梅雨季排旅行啦！」。
