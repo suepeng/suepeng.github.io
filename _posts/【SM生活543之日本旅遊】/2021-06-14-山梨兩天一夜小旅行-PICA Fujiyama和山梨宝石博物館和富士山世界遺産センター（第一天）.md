@@ -2,7 +2,7 @@
 layout: post
 title: 山梨兩天一夜小旅行-山梨宝石博物館和富士山世界遺産センター和住PICA Fujiyama小木屋（第一天）
 date: 2021-06-14
-tag:  【SM生活543之日本生活】
+tag:  【SM生活543之日本旅遊】
 feature: "https://lh3.googleusercontent.com/Z8GqyVb6PNWiSiMlOSLg02ngv-lxqWMeTWEk-47EYjGEvlkvUha26gyOwWXukH08nS5W-KW0ZvAeuqw1akGfF3jrcYlDWjpoi9yZGAJo1QUPUpcY9foIqtmdT4UwnCTxVqMZrcAD9-4=w2400"
 published: ture
 ---
