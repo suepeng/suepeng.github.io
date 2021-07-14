@@ -2,7 +2,7 @@
 layout: post
 title: 茨城兩天一夜小旅行-サイエンススクエアつくば和筑波宇宙センター和AMI Premium Outlets（第二天）
 date:  2020-10-26
-tag:   【SM生活543之日本生活】
+tag:   【SM生活543之日本旅遊】
 feature: "https://pic.pimg.tw/smlife543/1603715387-605019195-g_n.jpg"
 published: true 
 ---
